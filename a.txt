@@ -2,3 +2,4 @@ my name is Bin
 what is your name?
 wow
 legend
+error
